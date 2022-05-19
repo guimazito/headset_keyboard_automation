@@ -1,0 +1,5 @@
+1. Instalar AutoHotkey_1.1.33.10_setup.exe
+2. Copiar o arquivo nircmd.exe que está dentro de nircmd.zip
+3. Colar no caminho C:\Windows
+4. É possível compilar o arquivo Platinum Wireless Headset.ahk para .exe, apertando com o botão direito no arquivo ahk e escolhendo a opção Compile Script
+5. Para deixar a automação iniciando junto com o Windowns, é só colocar o arquivo .exe no caminho C:\Users\Claudio\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
